@@ -12,7 +12,7 @@
   
 |        Main         |
 :-------------------------:|
-<img src='https://github.com/Alikanan-a/Tea-Ecommerce-template/blob/main/images/ScreenShots/Screenshot%202024-03-16%20at%2016-14-47%20Teab.png' > | 
+<img src='assets/img/Screenshot 2025-05-12 at 10-03-58 Barber HTML-5 Template.png' > | 
 
 <br/>
 
